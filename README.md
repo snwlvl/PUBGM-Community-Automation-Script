@@ -1,0 +1,1 @@
+It is an automation tool to filter data of hundreds of players in seconds for PUBGM. The project includes functionalities such as detecting duplicate entries, checking player ban statuses, and identifying players with Korean accounts or those under 18, utilizing Google Sheets API and pandas for efficient data handling and analysis.
